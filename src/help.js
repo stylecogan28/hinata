@@ -119,7 +119,7 @@ const help = (prefix) => {
 ┣➥ *${prefix}url2img*
 ┃
 ┣━━━━━━━━━━━━━━━━━━━━
-┃ ${prefix}*Follow IG* ~_xptn~
+┃ ${prefix}*Follow IG* _Cogan_112
 ┗━━━━━━━━━━━━━━━━━━━━`
 }
 exports.help = help
